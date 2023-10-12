@@ -20,5 +20,5 @@ How to run :
 - Check from the Visualization.py file is all libraries prsent in you machine or not
 - open the folder where main.py located
 - open the terminal and give the path to the main.py
-- type > python main.py
+- type > python app.py
 - it will run the flash interface and on localhost you will have option to upload and get visualizations 
